@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.7.2)
+  - PluggableApplicationDelegate (0.2.0)
+  - Realm (3.3.2):
+    - Realm/Headers (= 3.3.2)
+  - Realm/Headers (3.3.2)
+  - RealmSwift (3.3.2):
+    - Realm (= 3.3.2)
+  - SVProgressHUD (2.2.5)
+  - Validator (3.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - PluggableApplicationDelegate
+  - RealmSwift
+  - SVProgressHUD
+  - Validator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - PluggableApplicationDelegate
+    - Realm
+    - RealmSwift
+    - SVProgressHUD
+    - Validator
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  PluggableApplicationDelegate: 6b55523e4adb5b4f55c97a2d3f107990656caa4a
+  Realm: d927fbf66df5532cfafc08afb5f7e53ded37b894
+  RealmSwift: 4e903a494e05d866581d69ad6f7e7b879d446baf
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Validator: bf211c1d71b3f910d230c09c70e62429d0fef63a
+
+PODFILE CHECKSUM: 2815bd23da78d7d33b321bd606dd8b97d109ae9c
+
+COCOAPODS: 1.5.3
